@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-ionic-chrome",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-ionic-chrome",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
