@@ -60,5 +60,3 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 Pull requests are welcome. Please ensure you follow the [contribution guidelines](CONTRIBUTING.md) when making contributions.
 
 ---
-
-Please make sure to replace the placeholders such as `"your-username"` with your GitHub username and update any other information specific to your plugin. The README.md file provides essential information about your plugin, its purpose, usage, and how to report issues or contribute to the project. It helps users and potential contributors understand your plugin better.
