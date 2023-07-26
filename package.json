@@ -1,21 +1,30 @@
 {
   "name": "cordova-plugin-ionic-chrome",
-  "version": "1.0.4",
+  "version": "1.0.5",
+  "description": "Cordova plugin for handling WebView compatibility and Chrome Custom Tabs in Ionic apps.",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ionic",
+    "chrome",
+    "custom tabs",
+    "webview",
+    "compatibility"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/alimhv/cordova-plugin-ionic-chrome.git"
   },
+  "bugs": {
+    "url": "https://github.com/alimhv/cordova-plugin-ionic-chrome/issues"
+  },
+  "homepage": "https://github.com/your-username/cordova-plugin-ionic-chrome#readme",
   "cordova": {
     "id": "cordova-plugin-ionic-chrome",
-    "platforms": [
-      "android"
-    ]
+    "platforms": ["android"]
   },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
-  ],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "dependencies": {
+  }
 }
