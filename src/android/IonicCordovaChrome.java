@@ -70,7 +70,7 @@ public class IonicCordovaChrome extends CordovaPlugin {
       if (resultCode == Activity.RESULT_OK) {
       }
       if (resultCode == Activity.RESULT_CANCELED) {
-       this.cordova.getActivity()).finish();
+       this.cordova.getActivity().finish();
       }
     }
   }
