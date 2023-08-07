@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/alimhv/cordova-plugin-ionic-chrome/issues"
   },
-  "homepage": "https://github.com/your-username/cordova-plugin-ionic-chrome#readme",
+  "homepage": "https://github.com/alimhv/cordova-plugin-ionic-chrome#readme",
   "cordova": {
     "id": "cordova-plugin-ionic-chrome",
     "platforms": ["android"]
